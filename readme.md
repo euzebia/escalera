@@ -1,3 +1,3 @@
-# Escalera investments
+# Escalera investments inventory management software
 This is a stock control and inventory management system
-# It manages stock, accounting and purcha
+# Technologies used:Codeigniter, php,mysql,html,jquery,javascript and css
