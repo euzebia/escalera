@@ -1,0 +1,107 @@
+ItemId,Category, UnitPrice ,SellPrice,Quantity,DateOfPurchase
+Laminating pouches,A3 ,700,2000,18,18/01/2019
+Art books,A4,833,2000,17,18/01/2019
+Laminating pouches,A4,260,1000,92,18/01/2019
+Laminating Pouches,A5,100,1000,51,18/01/2019
+Super glue,Alteco super glue 8g,750,1000,2,18/01/2019
+Art brushes ,Big,5000,8000,5,18/01/2019
+Art brushes ,small,3000,5000,1,18/01/2019
+Pens ,Bic,380,500,677,18/01/2019
+Books ,A5 96pages squared book,649,1000,2,18/01/2019
+Books ,A5 Flower 4quire,4000,5000,9,18/01/2019
+Books,3 quire counter,3000,4000,18,18/01/2019
+Books ,4 quire counter ,3550,6000,41,18/01/2019
+Books,A4 Manuscript,9000,12000,6,18/01/2019
+Books,A5 Blue Manuscript,3000,4000,3,18/01/2019
+Books,A5 Flower 3quire,3000,4000,9,18/01/2019
+Books,Alps A5 48pages,354,500,370,18/01/2019
+Books,Everest A4 200pages,2180,3000,21,18/01/2019
+Books,Graph book,750,1500,9,18/01/2019
+Books,Picfare A5 96pages,649,1000,41,18/01/2019
+Books,A5 48pages squared book,354,500,6,18/01/2019
+Books,Everest A4 96pages,1090,1500,50,18/01/2019
+Books,Hand writing books,500,1000,15,18/01/2019
+Books,Short hand note books,1000,1500,5,18/01/2019
+Calculators,Casio 401 functions Blue,16000,25000,2,18/01/2019
+Calculators,Casio 240 functions Dup,9000,15000,1,18/01/2019
+Calculators,Casio 401 functions White,9000,15000,4,18/01/2019
+Cellotape ,small,292,500,7,18/01/2019
+Clear bags ,None,500,1000,11,18/01/2019
+Clip boards,None,3500,5000,4,18/01/2019
+Books,Colouring book,2500,3500,1,18/01/2019
+Colours,Compo pens,2000,2500,19,18/01/2019
+Correction fluid,None,2000,3000,6,18/01/2019
+Colours,Crayola,1000,2000,14,18/01/2019
+Cutter knives,cutters No.18 (big),667,1000,24,18/01/2019
+Realms,Dolphin 500 Sheets,16000,19000,10,18/01/2019
+Books,Drawing book A3,1833,3500,14,18/01/2019
+Envelopes ,9x4,70,100,370,18/01/2019
+Envelopes ,A4,200,500,63,18/01/2019
+Envelopes ,A5,80,500,18,18/01/2019
+Erasers,Nataraj,120,500,90,18/01/2019
+Erasers,Pelikan,250,1000,31,18/01/2019
+File Fasteners,None,50,100,39,18/01/2019
+Files,Management files,1000,2000,11,18/01/2019
+Files,Manilla files,250,1000,13,18/01/2019
+Files,Ring binders,4000,5000,18,18/01/2019
+Files,Box file ,3500,5000,5,18/01/2019
+Files,Box file  new,4500,6000,10,18/01/2019
+Files,Spring files,1667,3000,21,18/01/2019
+Pens,Fountain pens,1000,2000,12,18/01/2019
+Rulers,Haco School rulers,1000,2000,15,18/01/2019
+Colours,High lighters,1000,1500,9,18/01/2019
+Ink ,Endorsing ,1000,2000,2,18/01/2019
+Colours,Jumbo colours,4000,7000,5,18/01/2019
+ staples,Kangaroo,800,1000,7,18/01/2019
+Mathematical sets,Kofa Mathematical set,1416,2500,17,18/01/2019
+Pens,Linc offix,300,500,33,18/01/2019
+Manilla charts,None,350,700,16,18/01/2019
+Colours,Marker pens,750,1500,6,18/01/2019
+Markers, Permanent ,300,500,44,18/01/2019
+Markers,Snow man ,292,500,119,18/01/2019
+Masking tape,None,1500,2500,7,18/01/2019
+Colours,Nataraj colour pencils,5000,8000,9,18/01/2019
+Pencils,Nataraj ,292,5000,168,18/01/2019
+Pens,Nataraj ,380,500,5,18/01/2019
+Rulers,Nataraj rulers,500,1500,14,18/01/2019
+Pens,Nice clear pens,260,500,144,18/01/2019
+Glue,Novicol wood glue 250gms,2000,3000,9,18/01/2019
+Glue,Novicol wood glue 500gms,3500,6000,4,18/01/2019
+Books,Numbers book,2500,3500,1,18/01/2019
+Glue,Office glue small,1000,1500,29,18/01/2019
+Mathematical sets,Oxford Mathematical sets,5000,7000,2,18/01/2019
+Packing Tape ,Brown Big,7500,10000,4,18/01/2019
+Packing Tape ,Brown-medium,3000,5000,2,18/01/2019
+Packing Tape ,Clear-medium,2500,5000,2,18/01/2019
+Colours,Pelikan colours,7000,9000,7,18/01/2019
+Colours,Pelikan colours-short,750,1500,1,18/01/2019
+Pencils ,6B art pencil (Staedtler),292,1000,33,18/01/2019
+Pencils,4B art pencil (Staedtler),292,1000,15,18/01/2019
+Pencils,5H TD Pencil (Staedtler),292,1000,3,18/01/2019
+Pencils,Picfare Gold,139,300,84,18/01/2019
+Pens ,Smile wave,240,500,78,18/01/2019
+Pencils,Picfare Gold pencil,139,300,36,18/01/2019
+Mathematical sets,Picfare mathematical set,2083,3000,19,18/01/2019
+Realms,Picfare ruled papers 500sheets,10300,14000,5,18/01/2019
+Books,Pocket size ,750,1500,1,18/01/2019
+Calculators,Porpo Calculator,3000,6000,7,18/01/2019
+Powder paint ,500gms,3700,5000,3,18/01/2019
+Price tags,Non-categorised,500,1000,22,18/01/2019
+Punching machines,Non-categorised,4000,6000,2,18/01/2019
+Pens,Quill fountain pens,1000,2000,11,18/01/2019
+Receipt books,100pages,1667,3000,10,18/01/2019
+Realms,Rotatrim 500 sheets,16400,20000,10,18/01/2019
+Rubber bands,Non-categorised,4000,5000,3,18/01/2019
+School Chalk,Non-categorised,2750,4000,4,18/01/2019
+Scissors,small,500,1000,2,18/01/2019
+Sharpener ,mix small,250,500,33,18/01/2019
+Sharpener,/ Fruity,500,1500,46,18/01/2019
+Stamp pads ,No.2,2000,3000,6,18/01/2019
+Stamp pads ,No.3,1000,3000,3,18/01/2019
+Stapling machines,kangaroo,4000,6000,5,18/01/2019
+Stick glue, 8g,900,1500,14,18/01/2019
+Sticky notes,Non-categorised,750,1000,14,18/01/2019
+Success cards,Non-categorised,625,1000,6,18/01/2019
+Colours,Water colours,5000,8000,2,18/01/2019
+Wrapping papers,Non-categorised,130,1000,77,18/01/2019
+Books,Everest A4 96pages,1090,1500,72,18/01/2019
